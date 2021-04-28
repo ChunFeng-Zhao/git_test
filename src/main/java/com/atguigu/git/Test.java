@@ -6,5 +6,6 @@ public class Test {
         System.out.println("Hello World");
         System.out.println("Hello Java");
         System.out.println("master is update subject");
+        System.out.println("hot-fix is update subject");
     }
 }
