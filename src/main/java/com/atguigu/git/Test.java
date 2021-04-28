@@ -8,5 +8,6 @@ public class Test {
         System.out.println("master is update subject");
         System.out.println("hot-fix is update subject");
         System.out.println("push test for github");
+        System.out.println("pull test for github");
     }
 }
